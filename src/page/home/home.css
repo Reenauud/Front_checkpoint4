@@ -1,0 +1,16 @@
+.nomPalais {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.description {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.image {
+  justify-content: center;
+  display: flex;
+}

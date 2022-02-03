@@ -1,0 +1,19 @@
+.header {
+  display: flex;
+  background-color: firebrick;
+  align-items: center;
+  justify-content: space-between;
+}
+.headerButton {
+  display: flex;
+  margin-right: 1%;
+}
+.allBtn {
+  display: flex;
+  margin-right: 4%;
+  border-radius: 50px;
+  box-shadow: black 2px 2px 10px 2px;
+  border-color: black;
+  height: 4vh;
+  align-items: center;
+}
