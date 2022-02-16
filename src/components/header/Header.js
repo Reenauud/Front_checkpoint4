@@ -4,7 +4,10 @@ import "./Header.css";
 function Header() {
   return (
     <div className="header">
-      <h1>ceci est mon header</h1>
+      <img
+        className="iconeH"
+        src="https://st.depositphotos.com/1095822/1378/i/600/depositphotos_13787172-stock-photo-gold-crown.jpg"
+      ></img>
       <div className="headerButton">
         <NavLink to={"/"}>
           <button className="allBtn">Home</button>

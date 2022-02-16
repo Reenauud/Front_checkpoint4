@@ -10,7 +10,13 @@
   width: 100%;
 }
 
-.image {
+.imagePalais {
   justify-content: center;
   display: flex;
+  margin-top: 3vh;
+}
+
+body {
+  margin: 0 auto;
+  background-color: rgba(255, 238, 0, 0.233);
 }

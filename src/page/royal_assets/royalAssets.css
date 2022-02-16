@@ -1,0 +1,8 @@
+.assetList {
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+  align-items: center;
+  border: solid black 1px;
+  width: 50vw;
+}

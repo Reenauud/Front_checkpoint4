@@ -1,8 +1,9 @@
 .header {
   display: flex;
-  background-color: firebrick;
+  background-color: rgba(178, 34, 34, 0.5);
   align-items: center;
   justify-content: space-between;
+  box-shadow: black 1px 1px 10px 10px;
 }
 .headerButton {
   display: flex;
@@ -16,4 +17,9 @@
   border-color: black;
   height: 4vh;
   align-items: center;
+}
+
+.iconeH {
+  width: 7%;
+  border-radius: 100%;
 }

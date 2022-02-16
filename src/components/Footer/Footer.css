@@ -1,5 +1,5 @@
 .footer {
   background-color: black;
-  margin-top: 6%;
   height: 10vh;
+  align-items: flex-end;
 }

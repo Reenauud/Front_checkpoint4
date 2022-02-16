@@ -1,0 +1,33 @@
+.connexion {
+  background-color: rgba(10, 184, 253, 0.178);
+  height: 70vh;
+  width: 40vw;
+  border-radius: 100px;
+  margin-top: 10vh;
+  display: block;
+  justify-content: center;
+  box-shadow: black 10px 10px 20px 1px;
+}
+
+.placementBoxCo {
+  display: flex;
+  justify-content: center;
+}
+
+.placementBtnCo {
+  display: flex;
+  justify-content: center;
+}
+
+.inputCo {
+  margin-top: 5vh;
+  height: 5vh;
+  box-shadow: black 10px 10px 20px 1px;
+}
+
+.btnCo {
+  height: 5vh;
+  width: 10vw;
+  box-shadow: black 10px 10px 20px 1px;
+  border-radius: 100px;
+}

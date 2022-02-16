@@ -1,9 +1,9 @@
-import React from "react";
+import Asset from "../../components/asset/Asset";
 
 function RoyalAssets() {
   return (
-    <div>
-      <h1>royal assets</h1>
+    <div className="assetList">
+      <Asset />
     </div>
   );
 }
